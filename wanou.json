@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain": [
+        "tv.yydsys.top"
+      ],
+      "domain_keyword": [
+        "wogg"
+      ]
+    }
+  ]
+}
