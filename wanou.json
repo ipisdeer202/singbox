@@ -2,9 +2,19 @@
   "version": 2,
   "rules": [
     {
-      "domain":"tv.yydsys.top" ,
-      "domain":"666.666291.xyz" ,
-      "domain_keyword": "wogg"
+      "domain": [
+        "tv.yydsys.top" ,
+        "666.666291.xyz"
+      ],
+      "domain_suffix": [
+        "doubao.com",
+        "bytedance.com",
+        "bytedance.net",
+        "doubaoai.com"
+      ],
+      "domain_keyword": [
+        "wogg"
+      ]
     }
   ]
 }
